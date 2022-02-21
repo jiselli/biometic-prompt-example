@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Construction Examples</string>
+    <string name="label_login">E-mail</string>
+    <string name="label_password">Password</string>
+    <string name="label_button_login">Sing in</string>
+    <string name="label_button_biometric">Sing in with your biometric</string>
+</resources>
